@@ -29,6 +29,7 @@
 
 ### Задание 2
 ### Скриншот-1 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/568efcb3-bb61-4bf9-aab5-9353579f6539" />
+### Скриншот-2 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6345c4a2-fab3-411f-95ec-59b1559012d4" />
 
 
 ### Задание 3
