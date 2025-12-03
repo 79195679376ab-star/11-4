@@ -40,6 +40,13 @@
 ###  Машина-2
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9907cb8d-7a66-425e-9fa5-8b07daf50ef2" />
 
+### Команду $ rabbitmqadmin get queue='hello'  пришлось подкорректировать 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0ab545a-bb47-402b-b271-bf11e9e0ca76" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f48035b5-f756-454e-a859-bca914e9b844" />
+
+
 
 
 
