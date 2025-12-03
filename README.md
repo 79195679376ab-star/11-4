@@ -33,15 +33,13 @@
 
 
 ### Задание 3
-### Пример содержимого hosts файла:
 
-### $ cat /etc/hosts
-### 192.168.0.10 rmq01
-### 92.168.0.11 rmq02
 ### Машина-1
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c77f896-cf72-497a-b323-da2c31033d93" />
-### Машина-2
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02f931f7-395e-4aa1-b787-7ddf8a3ab763" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/280663d2-dbfa-4050-960e-81ebfc97b3fa" />
+
+###  Машина-2
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9907cb8d-7a66-425e-9fa5-8b07daf50ef2" />
+
 
 
 
